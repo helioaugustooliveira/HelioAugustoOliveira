@@ -7,6 +7,6 @@
 :books: I’m currently learning everything.
 :outbox_tray: 2021 Goals: create a new project and find a new job.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=
-HelioAugustoOliveira&hide=contribs,prs)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=
+HelioAugustoOliveira)](https://github.com/anuraghazra/github-readme-stats)
