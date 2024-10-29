@@ -1,6 +1,6 @@
 # Bem-vindo!
 
-## Eu sou o Hélio.
+## I'm Hélio.
 
 :computer: Eu sou front-end developer. <br/> 
 :house_with_garden: Eu sou do Brazil. <br/>
