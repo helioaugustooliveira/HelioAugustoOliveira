@@ -4,7 +4,7 @@
 
 :computer: Eu sou front-end developer. <br/> 
 :house_with_garden: Eu sou do Brazil. <br/>
-:books: Atualmente estou aprofundando em JavaScript. <br/>
+:books: Atualmente estou aprofundando em JavaScript, C, C++, java e python. <br/>
 :outbox_tray: Metas para 2024: Criar um site totalmente imersivo em novas linguagens front-end. <br/> 
 
 
